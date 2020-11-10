@@ -1,4 +1,7 @@
-### Hi there 👋
+### Здравствуй, друг 👋
+
+Я - начинающий Frontend Developer. Занимаюсь разработкой на React.js. В будущем планирую изучать Angular.js и Node.js 😄
+Если есть какие-либо вопросы, рад буду помочь - https://vk.com/art_nickel
 
 <!--
 **ArtemPonomarev-1994/ArtemPonomarev-1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
