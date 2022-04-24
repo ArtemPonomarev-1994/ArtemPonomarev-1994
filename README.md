@@ -2,6 +2,8 @@
 
 Занимаюсь разработкой на React.js.
 Если есть какие-либо вопросы, рад буду помочь - https://vk.com/art_nickel
+!!!ВАЖНО!!!
+Репы CV,Obmen и React-Redux - суперстарые, когда я только учился всем этим вашим фронтендам. Не смотри туда, там ад, боль и код, требующий рефакторинга (а точнее удаления и переписывания заново). Храню эти репы чисто как память :)
 
 <!--
 **ArtemPonomarev-1994/ArtemPonomarev-1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
